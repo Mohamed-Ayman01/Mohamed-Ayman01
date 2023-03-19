@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-ayman01&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-ayman01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-ayman01" alt="mohamed-ayman01" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-ayman01" alt="mohamed-ayman01" /></a> </p> -->
 
 - 🔭 I’m currently working on **increasing my skill set**
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://mohamed-ayman01.github.io/](https://mohamed-ayman01.github.io/)
+- 👨‍💻 All of my projects are available at [MyPortofolio](https://mohamed-ayman01.github.io/)
 
 - 💬 Ask me about **[HTML, CSS, JavaScript]**
 
