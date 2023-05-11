@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mohamed E. Ayman, a Front End Web Developer From Sudan</h1>
-<h3 align="center">creativity is my magic ✨</h3>
+<h3 align="center">creativity is my thing ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-ayman01&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-ayman01" /> </p>
 
